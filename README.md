@@ -22,6 +22,8 @@ For now, diagrams are found on my [website](https://m4x1mumrez87.neocities.org/c
 Included in the repository are the gerber files and bill of materials so you can manufacturer your own Cheapmod Mini. Note that the PCB does not contain reference designators, so an image is provided to show the correct
 component placement.
 
+(The 49LF020 without any other variant will work with this chip)
+
 PCB thickness must be 1.6mm.
 
 [JLCPCB](https://jlcpcb.com)
