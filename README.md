@@ -16,7 +16,7 @@ It allows the bypassing of most of the Xbox's security features and install a cu
 other advantages over stock.
 
 ### Installation
-For now, diagrams are found on my [website](https://m4x1mumrez87.neociites.org/cheapmod).
+For now, diagrams are found on my [website](https://m4x1mumrez87.neocities.org/cheapmod).
 
 ### Assembling the chip
 Included in the repository are the gerber files and bill of materials so you can manufacturer your own Cheapmod Mini. Note that the PCB does not contain reference designators, so an image is provided to show the correct
