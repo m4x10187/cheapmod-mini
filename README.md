@@ -18,7 +18,7 @@ other advantages over stock.
 ### Installation
 [v1.0 - v1.2](https://github.com/m4x10187/cheapmod-mini/blob/main/diagrams/Cheapmod_Mini_v1-v12_Installation_Guide.pdf)
 
-[v1.6/b](https://web.archive.org/web/20050416034049/http://www.eurasia.nu/wiki/index.php?pagename=XboxCheapmodOn1.6)
+[v1.6/b](https://github.com/m4x10187/cheapmod-mini/blob/main/diagrams/Cheapmod_Mini_V1.6.jpg)
 
 ### Assembling the chip
 Included in the repository are the gerber files and bill of materials so you can manufacturer your own Cheapmod Mini. Note that the PCB does not contain reference designators, so an image is provided to show the correct
